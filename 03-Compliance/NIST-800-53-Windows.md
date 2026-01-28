@@ -115,15 +115,6 @@ This assessment maps Windows 10/11 hardening controls to **NIST SP 800-53 Revisi
 
 ---
 
-## Certification & Approval
-
-**Assessment Date**: January 2026  
-**Assessor**: Security Engineering  
-**Review Status**: Approved for Production  
-**Next Assessment**: July 2026 (6-month review)
-
----
-
 ## Related Documents
 - [Windows 10/11 Hardening Assessment](../01-Hardening/Windows/windows-hardening.md)
 - [Evidence Documentation](evidence/windows/)
