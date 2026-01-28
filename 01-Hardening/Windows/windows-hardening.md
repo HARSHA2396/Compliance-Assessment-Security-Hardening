@@ -24,7 +24,7 @@ Settings > System > About > Windows specifications
 ✓ Verified all critical security patches installed
 
 **Evidence:**  
-![Windows Update Enabled](screenshots/windows-update.png)
+![Windows Update Enabled](screenshots/windows automatic updates.png)
 
 ---
 
@@ -48,7 +48,7 @@ Windows Security > Virus & Threat Protection
 ✓ Cloud-delivered protection: Enabled
 
 **Evidence:**  
-![Defender Active](screenshots/defender-active.png)
+![Defender Active](screenshots/.png)
 
 ---
 
@@ -150,32 +150,6 @@ auditpol /get /category:*
 ✓ Audit object access: **Enabled**  
 ✓ Audit system events: **Enabled**  
 ✓ Event Log retention: 90 days minimum (Security log size: 20480 KB)
-
----
-
-## 7. BitLocker Full Disk Encryption
-
-**Risk Category**: SC-28 (Protection of Data at Rest)  
-**Severity**: CRITICAL
-
-**Risk Description:**  
-Unencrypted disks allow data theft if device is lost, stolen, or decommissioned. Encryption ensures data confidentiality even if physical access is gained.
-
-**Assessment Method:**  
-```
-Right-click C: drive > Properties > BitLocker > Check encryption status
-```
-
-**Control Applied:**  
-✓ BitLocker enabled: **Full Disk Encryption (XTS-AES 128-bit)**  
-✓ Recovery key: Securely backed up  
-✓ TPM 2.0: Used (hardware-backed encryption)  
-✓ Suspension: None active  
-✓ Protection status: ON
-
-**Evidence:**  
-![BitLocker Encryption Enabled](screenshots/bitlocker-enabled.png)
-
 ---
 
 ## 8. User Account Control (UAC)
