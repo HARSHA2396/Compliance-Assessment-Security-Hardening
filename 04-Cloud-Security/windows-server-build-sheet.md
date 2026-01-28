@@ -3,8 +3,6 @@
 **Document ID**: WSS-001  
 **Applicable Versions**: Windows Server 2019, 2022, 2024  
 **Environment**: Production Cloud & On-Premises  
-**Last Updated**: January 2026  
-
 ---
 
 ## 1. Infrastructure Overview
@@ -364,16 +362,6 @@ Set-Service -Name DiagTrack -StartupType Disabled -Status Stopped
 | High CPU usage | Malware scan / indexing | Check Task Manager, disable WIndows Search |
 | Network connectivity loss | NIC driver | Update NIC driver, check network config |
 | RDP not accessible | Firewall rule | Review NSG rules, verify RDP port |
-
----
-
-## 12. Approval & Deployment Authority
-
-**Build Sheet Approval**: Chief Information Officer  
-**Security Review**: Chief Information Security Officer  
-**Deployment Approval**: Cloud Operations Manager  
-**Documentation Owner**: Cloud Architecture Team  
-**Next Review Date**: January 2027  
 
 ---
 
