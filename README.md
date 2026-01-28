@@ -38,7 +38,6 @@ The work simulates a real-world enterprise environment and covers:
 │   ├── CMMC-Linux.md
 │   └── evidence/          # Supporting compliance documentation
 ├── 04-Cloud-Security/     # Cloud hardening & CASB analysis
-└── assets/                # Architecture diagrams
 ```
 
 ## How to Use This Repository
