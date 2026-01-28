@@ -1,10 +1,6 @@
 # Bring Your Own Device (BYOD) Policy
 
 **Policy ID**: SEC-BYOD-001  
-**Effective Date**: January 2026  
-**Review Date**: January 2027  
-
----
 
 ## 1. Purpose
 
