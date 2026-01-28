@@ -279,9 +279,3 @@ Windows Security > Virus & Threat Protection > Manage settings
 - Local Security Policy (secpol.msc)
 - Event Viewer
 - PowerShell (auditpol, Get-MpPreference)
-
-## Recommendations for Enterprise Deployment
-1. **Template Creation**: Convert these settings to a GPO template for domain deployment
-2. **Monitoring**: Implement SIEM logging to monitor Event IDs: 4625 (failed logins), 4720 (account creation)
-3. **Automation**: Use Intune or MDM for non-domain environments
-4. **Testing**: Validate hardening in test environment before production rollout
