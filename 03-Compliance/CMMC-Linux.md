@@ -285,9 +285,3 @@ echo "CMMC Level 2 Hardening Completed"
 
 ---
 
-## Compliance Officer Approval
-
-**Assessment Date**: January 2026  
-**Reviewer**: Security Engineering  
-**Next Review**: 90 days  
-**Certification Status**: In Process (Level 1 Ready, Level 2 Remediation Planned)
