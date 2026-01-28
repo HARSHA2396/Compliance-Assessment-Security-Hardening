@@ -1,8 +1,6 @@
 # Email Security Policy
 
 **Policy ID**: SEC-EMAIL-001  
-**Effective Date**: January 2026  
-**Review Date**: January 2027  
 
 ---
 
@@ -111,5 +109,3 @@ This policy applies to all employees, contractors, and third parties using organ
 
 ---
 
-**Approved By**: Chief Information Security Officer  
-**Distribution**: All Staff (mandatory acknowledgment)
