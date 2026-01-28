@@ -24,7 +24,7 @@ Settings > System > About > Windows specifications
 ✓ Verified all critical security patches installed
 
 **Evidence:**  
-![Windows Update Enabled](screenshots/windows automatic updates.png)
+![Windows Update Enabled](screenshots/windowsautomaticupdates.png)
 
 ---
 
@@ -48,7 +48,7 @@ Windows Security > Virus & Threat Protection
 ✓ Cloud-delivered protection: Enabled
 
 **Evidence:**  
-![Defender Active](screenshots/.png)
+![Defender Active](03-Compliance\evidence\windows\defenderantivirus.png)
 
 ---
 
