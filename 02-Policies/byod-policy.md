@@ -210,8 +210,3 @@ This policy applies to all employees, contractors, and authorized users accessin
 - **Acknowledgment**: User must sign policy agreement before access
 - **Certification**: Training completion tracked by HR
 
----
-
-**Approved By**: Chief Information Security Officer  
-**Distribution**: All Staff (mandatory acknowledgment required)  
-**Effective**: All new device enrollments must comply immediately
