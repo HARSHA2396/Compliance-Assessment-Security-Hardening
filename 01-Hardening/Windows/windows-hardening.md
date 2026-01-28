@@ -48,7 +48,7 @@ Windows Security > Virus & Threat Protection
 ✓ Cloud-delivered protection: Enabled
 
 **Evidence:**  
-![Defender Active](screenshots/defenderantivirus.png)
+![Defender Active](screenshots/defender-antivirus.png)
 
 ---
 
