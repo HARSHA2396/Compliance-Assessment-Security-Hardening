@@ -24,8 +24,7 @@ System Preferences > Security & Privacy > FileVault
 ✓ Recovery key: Securely archived  
 ✓ Status: Encryption complete
 
-**Evidence:**  
-![FileVault Enabled](screenshots/filevault-enabled.png)
+
 
 ---
 
@@ -48,8 +47,7 @@ System Preferences > Security & Privacy > Firewall
 ✓ Inbound policy: Block all unauthorized connections  
 ✓ Exceptions: Limited to essential services only
 
-**Evidence:**  
-![Firewall Enabled](screenshots/firewall-enabled.png)
+
 
 ---
 
@@ -72,8 +70,7 @@ System Preferences > Security & Privacy > General
 ✓ Code signing: Verified for all installed apps  
 ✓ Notarization: Verified for macOS 10.15+
 
-**Evidence:**  
-![Gatekeeper Configuration](screenshots/gatekeeper.png)
+
 
 ---
 
@@ -238,9 +235,3 @@ Unnecessary features increase attack surface.
 - Terminal (csrutil, spctl)
 - System Information
 - Console (log viewer)
-
-## Enterprise Deployment Notes
-1. Use **Mobile Device Management (MDM)** for bulk deployment
-2. Deploy via **Intune**, **Jamf Pro**, or **Apple Business Manager**
-3. Create **Configuration Profiles** for automated enforcement
-4. Implement **Device Compliance Monitoring** with regular audits
