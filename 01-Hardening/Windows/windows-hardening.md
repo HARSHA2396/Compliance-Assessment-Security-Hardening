@@ -24,7 +24,7 @@ Settings > System > About > Windows specifications
 ✓ Verified all critical security patches installed
 
 **Evidence:**  
-![Windows Update Enabled](03-Compliance/evidence/windows/defenderantivirus.png)
+![Windows Update Enabled](screebshots\windowsupdates.png)
 
 ---
 
