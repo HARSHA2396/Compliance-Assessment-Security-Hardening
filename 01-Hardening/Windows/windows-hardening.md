@@ -24,7 +24,7 @@ Settings > System > About > Windows specifications
 ✓ Verified all critical security patches installed
 
 **Evidence:**  
-![Windows Update Enabled](screenshots/windowsautomaticupdates.png)
+![Windows Update Enabled](screenshots/windowsupdates.png)
 
 ---
 
